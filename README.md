@@ -57,14 +57,3 @@ http://192.168.3.210:9092
 
 5、kafka 官网
 http://kafka.apache.org/0102/documentation/streams/
-
-
-
-
-
-
-
-
-
-
-# embraceKafkaDemo
